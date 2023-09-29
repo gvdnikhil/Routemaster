@@ -1,3 +1,4 @@
+
 ```markdown
 # RouteMaster
 
@@ -22,31 +23,14 @@ To get started with RouteMaster, follow these steps:
    git clone https://github.com/gvdnikhil/RouteMaster.git
    ```
 
-2. **Install Dependencies:**
-
-   ```bash
-   # Navigate to the project directory
-   cd RouteMaster
-
-   # Install required dependencies (if any)
-   npm install
-   ```
-
-3. **Customize Configuration:**
+2. **Customize Configuration:**
 
    - Update configuration files as needed for your specific use case.
    - Add any API keys or credentials required for external services.
 
-4. **Run the Application:**
+3. **Open the Application:**
 
-   ```bash
-   # Start the application
-   npm start
-   ```
-
-5. **Open the Application:**
-
-   Open your web browser and visit `http://localhost:3000` to access RouteMaster.
+   Open your web browser and double-click on the `index.html` file to access RouteMaster.
 
 ## Usage
 
@@ -79,6 +63,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 1. **Fork the Project:**
    ...
-```
 
-Thank you for pointing out the issue, and I hope this format better aligns with your expectations.
+Thank you for pointing out the specific requirements of your project, and I hope this updated format better aligns with your needs.
